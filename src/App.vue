@@ -14,7 +14,7 @@
             @input="adjustChatInput"
             @keydown="handleKeyDown"
             spellcheck="false"
-            placeholder="Enter a prompt where"
+            placeholder="Enter a prompt here"
             required
           ></textarea>
           <!-- Bind handleOutgoingChat method to the click event of the send button -->
